@@ -36,10 +36,10 @@ export default function BootstrapExample() {
             MG
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item"  href="#">Action</a></li>
-            <li><a className="dropdown-item"  href="#">Another action</a></li>
+            <li><a className="dropdown-item"  href="#">Card</a></li>
+            <li><a className="dropdown-item"  href="#">About</a></li>
             <li><hr className="dropdown-divider"/></li>
-            <li><a className="dropdown-item"  href="#">Something else here</a></li>
+            <li><a className="dropdown-item"  href="#">Log Out</a></li>
           </ul>
         </li>
        

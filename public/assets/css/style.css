@@ -1,4 +1,9 @@
-p{
+.background{
+    background-color: rgb(139, 211, 211);
+}   
+   
+   
+/* p{
     background-color:aqua;
     padding: 15px;
     color: red;
@@ -68,4 +73,4 @@ h1{
 }
 h2{
     background: linear-gradient(to right,lightblue,aqua,lightblue);
-}
+} */

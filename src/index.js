@@ -1,14 +1,28 @@
 
 import React from "react";
 import  ReactDOM  from "react-dom/client";
-import BootstrapExample from "./FunctionComponents/BootstrapExample";
+import MaterialUIExample from "./FunctionComponents/MaterialUIExample";
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
   <>
-    <BootstrapExample/>
+    <MaterialUIExample/>
   </>
 )
+
+
+
+
+// import React from "react";
+// import  ReactDOM  from "react-dom/client";
+// import BootstrapExample from "./FunctionComponents/BootstrapExample";
+
+// const root = ReactDOM.createRoot(document.getElementById("root"))
+// root.render(
+//   <>
+//     <BootstrapExample/>
+//   </>
+// )
 
 
 

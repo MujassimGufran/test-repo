@@ -1,5 +1,6 @@
 .background{
-    background-color: rgb(100, 234, 234);
+    /* background-color: rgb(100, 234, 234)!important; */
+    background: linear-gradient(to right,aqua,lightblue,blue);
 }   
    
    
